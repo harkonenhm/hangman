@@ -6,4 +6,4 @@ Simple hangman game with command line interface.
 
 Make sure you've Python 3 installed.
 
-Start the game with command ´python3 hangman.py´
+Start the game with command `python3 hangman.py`
